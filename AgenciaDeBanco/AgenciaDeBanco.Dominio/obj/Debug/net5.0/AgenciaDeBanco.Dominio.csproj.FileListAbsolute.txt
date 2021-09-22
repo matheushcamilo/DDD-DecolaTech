@@ -1,0 +1,12 @@
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\bin\Debug\net5.0\AgenciaDeBanco.Dominio.deps.json
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\bin\Debug\net5.0\AgenciaDeBanco.Dominio.dll
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\bin\Debug\net5.0\ref\AgenciaDeBanco.Dominio.dll
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\bin\Debug\net5.0\AgenciaDeBanco.Dominio.pdb
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\obj\Debug\net5.0\AgenciaDeBanco.Dominio.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\obj\Debug\net5.0\AgenciaDeBanco.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\obj\Debug\net5.0\AgenciaDeBanco.Dominio.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\obj\Debug\net5.0\AgenciaDeBanco.Dominio.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\obj\Debug\net5.0\AgenciaDeBanco.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\obj\Debug\net5.0\AgenciaDeBanco.Dominio.dll
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\obj\Debug\net5.0\ref\AgenciaDeBanco.Dominio.dll
+C:\Users\matth\OneDrive\Área de Trabalho\DDD-DecolaTech\AgenciaDeBanco\AgenciaDeBanco.Dominio\obj\Debug\net5.0\AgenciaDeBanco.Dominio.pdb
